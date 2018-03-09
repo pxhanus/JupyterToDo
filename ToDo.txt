@@ -1,6 +1,8 @@
 Bib issue
 https://github.com/jupyter/nbconvert/pull/768
 https://github.com/jupyter/nbconvert-examples/tree/master/citations
+See if bibs work using old tutorial and example linked above.
+
 
 Look at Jupiter markdown
 https://github.com/jupyter/jupyter_markdown
